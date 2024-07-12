@@ -1,4 +1,4 @@
-# Reanalyzing scRNA-seq dataset of glioblastomas from Neftel et al.
+# Reanalyzing scRNA-seq dataset of glioblastomas from Neftel et al. 2019
 
 In the Jupyter notebooks in this repository, I have reanalyzed the SMART-Seq2 data from Neftel, Laffy, et al. 2019, [An Integrative Model of Cellular States, Plasticity, and Genetics for Glioblastoma](https://www.cell.com/cell/fulltext/S0092-8674(19)30687-7).
 
